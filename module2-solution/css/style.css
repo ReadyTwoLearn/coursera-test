@@ -76,7 +76,7 @@
   }
   
   @media (min-width: 768px) and (max-width: 991px) {
-    /* For tablets: */
+    /* For tablets:  */
     .col-s-1 {width: 8.33%;}
     .col-s-2 {width: 16.66%;}
     .col-s-3 {width: 25%;}
